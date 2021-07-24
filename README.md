@@ -15,4 +15,4 @@ mysql> INSERT INTO contact_methods (discord, email) VALUES ('`valkyrie_pilot#270
 mysql> SELECT * FROM pronouns;\
 he/she/they/it/object/valk\
 mysql> SELECT * FROM friends;\
-Aqawma#3113, [Weeb]#0111, smallpepperz#0681, (the rest of MDSP)\
+Aqawma#3113, [Weeb]#0111, smallpepperz#0681, (the rest of MDSP)
