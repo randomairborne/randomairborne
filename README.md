@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-\randomairborne@github.com ~ # myslq\
+randomairborne@github ~ # myslq\
 bash: command not found: mylsq\
-\randomairborne@github.com ~ # mysql\
+randomairborne@github ~ # mysql\
 Welcome to MySQL 8.0.\
 mysql> INSERT INTO working_on (main, side, sparetime) VALUES ('Glaceon', 'C++', 'Minecraft support')\
 mysql> INSERT INTO learning (coding_language, social_skill, misc) VALUES ('C++', 'When it's OK to lie', 'moderation');\
