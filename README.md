@@ -2,7 +2,7 @@
 
 
 randomairborne@github ~ # myslq\
-bash: command not found: mylsq\
+bash: command not found: myslq\
 randomairborne@github ~ # mysql\
 Welcome to MySQL 8.0.\
 mysql> INSERT INTO working_on (main, side, sparetime) VALUES ('Glaceon', 'C++', 'Minecraft support')\
