@@ -5,8 +5,8 @@ randomairborne@github ~ # myslq\
 bash: command not found: myslq\
 randomairborne@github ~ # mysql\
 Welcome to MySQL 8.0.\
-mysql> INSERT INTO working_on (main, side, sparetime) VALUES ('Glaceon', 'C++', 'Minecraft support')\
-mysql> INSERT INTO learning (coding_language, social_skill, misc) VALUES ('C++', 'When it's OK to lie', 'moderation');\
+mysql> INSERT INTO working_on (main, side, sparetime) VALUES ('Go', 'Rust', 'Minecraft support')\
+mysql> INSERT INTO learning (coding_language, social_skill, misc) VALUES ('Go', 'When it's OK to lie', 'moderation');\
 mysql> SELECT * FROM things.to_work_on WHERE type = 'discord bot' AND language = 'Python3';\
 mysql> SELECT * FROM things WHERE need_help = 1;\
 code, social life, being kind\
