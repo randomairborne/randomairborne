@@ -18,7 +18,7 @@ mysql> SELECT * FROM friends;\
 Aqawma#3113, [Weeb]#0111, smallpepperz#0681, (the rest of MDSP)
 mysql> select * from languages;
 ### 🛠 &nbsp;Languages and Tools
-<p align="center">
+<p align="left">
 <a href="https://github.com/randomairborne">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=randomairborne&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=randomairborne&layout=compact&langs_count=8&theme=algolia"/>
