@@ -16,7 +16,8 @@ mysql> SELECT * FROM pronouns;\
 he/she/they/it/object/valk\
 mysql> SELECT * FROM friends;\
 Aqawma#3113, [Weeb]#0111, smallpepperz#0681, (the rest of MDSP)\
-mysql> select * from languages;
+mysql> \q
+randomairborne@github ~ # showstats fancy
 
 ### ⌨️ &nbsp;Languages I know or am working on
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
