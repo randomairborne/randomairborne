@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 see [my website](https://randomairborne.dev/) \
-also check out the stuff my boyfriend does [github](/tazz4843) [project website](https://imaskeleton.me) [personal website](https://zero.lgbt) 
+I'm a student in Colorado working on Rust, Go, and Python \
+they/them please
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="left">
@@ -11,3 +12,8 @@ also check out the stuff my boyfriend does [github](/tazz4843) [project website]
 </a>
 </p>
 No idea why this is a++
+
+also check out the stuff my boyfriend does \
+[github](/tazz4843) \
+[project website](https://imaskeleton.me) \
+[personal website](https://zero.lgbt) 
