@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 see [my website](https://randomairborne.dev/) \
-I'm a student in Colorado working on Rust, Go, and Python \
+I'm a student in the U.S. working on Rust, Go, and Python \
 they/them please
 
 ### ⚙️ &nbsp;GitHub Analytics
