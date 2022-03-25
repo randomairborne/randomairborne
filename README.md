@@ -14,6 +14,6 @@ they/them please
 No idea why this is a++
 
 also check out the stuff my boyfriend does \
-[github](/tazz4843) \
+[github](https://github.com/tazz4843) \
 [project website](https://imaskeleton.me) \
 [personal website](https://zero.lgbt) 
