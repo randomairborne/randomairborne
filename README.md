@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-see [my website](https://randomairborne.dev/) \
-I'm a student in the U.S. working on Rust, HTML, and CSS.
-they/them please
+I'm a student in the U.S. working on Rust, HTML, and CSS. JavaScript only when absolutely nessecary.
 
-I'm on Discord (as valkyrie_pilot), and over email (valk (at) randomairborne.dev)
+### Contact Me
+I'm on Discord (as `valkyrie_pilot`), and over email (valk (at) randomairborne.dev)
 
-i make a lot of discord bots and moderate the official minecraft discords
-
-also check out the stuff my boyfriend does \
-[github](https://github.com/tazz4843) \
-[website](https://niko.lgbt) 
+### Links
+- [My Website](https://randomairborne.dev)
+- [Niko's Website](https://niko.lgbt)
+- [Andrew's Website](https://thatother.dev)
+- [speederboard](https://speederboard.org)
