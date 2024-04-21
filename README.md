@@ -9,4 +9,3 @@ I'm on Discord (as `valkyrie_pilot`), and over email (valk (at) randomairborne.d
 - [My Website](https://www.randomairborne.dev)
 - [Niko's Website](https://niko.lgbt)
 - [Andrew's Website](https://thatother.dev)
-- [speederboard](https://speederboard.org)
