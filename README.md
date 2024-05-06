@@ -2,6 +2,8 @@
 
 I'm a student in the U.S. working on Rust, HTML, and CSS. JavaScript only when absolutely nessecary.
 
+"The difference between theory and practice is always greater in practice then it is in theory"
+
 ### [Contact Me](https://www.randomairborne.dev/contact/)
 I'm on Discord (as `valkyrie_pilot`), and over email (valk (at) randomairborne.dev).
 
