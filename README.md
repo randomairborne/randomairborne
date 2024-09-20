@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student in the U.S. working on Rust, HTML, and CSS. JavaScript only when absolutely nessecary.
+I'm a student in the U.S. working on Rust, HTML, and CSS. JavaScript only when absolutely necessary.
 
 "The difference between theory and practice is always greater in practice then it is in theory"
 
