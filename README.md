@@ -7,6 +7,7 @@ I'm a student in the U.S. working on Rust, HTML, and CSS. JavaScript only when a
 ### [Contact Me](https://www.randomairborne.dev/contact/)
 
 ### Friends
-- [My Website](https://www.randomairborne.dev)
-- [Niko's Website](https://niko.lgbt)
-- [Andrew's Website](https://thatother.dev)
+- [My website](https://www.randomairborne.dev)
+- [Niko's website](https://niko.lgbt)
+- [Andrew's website](https://thatother.dev)
+- [Sylvee's website](https://sylvee.xyz)
