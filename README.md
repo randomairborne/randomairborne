@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a student in the U.S. working on Rust, HTML, and CSS. JavaScript only when absolutely necessary.
-Jag lärar Svenska!
+Jag är inlärning Svenska!
 
 "The difference between theory and practice is always greater in practice then it is in theory"
 
