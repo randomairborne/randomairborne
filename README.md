@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a student in the U.S. working on Rust, HTML, and CSS. JavaScript only when absolutely necessary.
-Jag lär mig svenska!
+Jag lär mig svenska! Also, I make theater lights go on and off and sometimes it looks pretty.
 
 "The difference between theory and practice is always greater in practice than it is in theory"
 
