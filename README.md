@@ -11,4 +11,4 @@ Jag lär mig svenska! Also, I make theater lights go on and off and sometimes it
 - [My website](https://www.randomairborne.dev)
 - [Niko's website](https://niko.lgbt)
 - [Andrew's website](https://thatother.dev)
-- [Sylvee's website](https://sylvee.xyz)
+- [Fripe's website](https://fripe.dev)
